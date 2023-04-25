@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="319eec5c-7663-4aea-a4bf-3a7a2579f107" name="my-first-website-server" url="https://ddc-web-student.cnm.edu/~rbalchii/my-first-website-game/">
+        <fileTransfer rootFolder="/home/rbalchii/public_html/my-first-website-game" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="e599eac3-12e8-4289-a2db-95650f399887" sshConfig="ddc-web-student.cnm.edu" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
